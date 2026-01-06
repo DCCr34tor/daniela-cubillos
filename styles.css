@@ -1,0 +1,31 @@
+
+h1
+{  font-family: "Sniglet", system-ui;
+  font-weight: 800;
+font-size: 100px;}
+
+  h2, h3{
+     font-family: "Sniglet", system-ui;
+  }
+
+  #hello{
+    background-color: #ff1493;
+    color: whitesmoke;
+  }
+
+  p{
+    font-family: "Sniglet", system-ui;
+  }
+
+  h3{
+    color: #a114ff;
+  }
+
+  .touch{
+    color: #ff4214;
+  }
+  .icon-skill{
+    width: 80px;
+    padding-bottom: 15PX;
+    
+  }
